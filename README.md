@@ -1,2 +1,2 @@
 # TradingMate
-TradingView client integrated with an AI agent
+TradingView client integrated with AI agent
